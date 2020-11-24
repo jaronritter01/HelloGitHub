@@ -1,0 +1,4 @@
+-git add : adds a file to the staging area 
+-git commit : commits the file to the repo with a message
+-git init : initalizes a local git repo
+-git clone : creates a copy of a repo locally 
