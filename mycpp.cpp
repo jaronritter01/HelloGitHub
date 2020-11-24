@@ -5,5 +5,5 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World -- modified\n";
+    cout << "Hello World - modified\n";
 }
